@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+tqdm
+
+# Only needed if you re-download the dataset from Hugging Face
+datasets
